@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @flame-dash
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Web Dev Projects
+- 📫 How to reach me: Try and beat me on python
